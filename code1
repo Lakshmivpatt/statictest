@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>AnyCompany PoC</title>
+        <center><img src="BG1.png"></center>
+    </head>
+    <div class="section-intro">
+    <h1 class="page-title subtitle">
+    <div class="footer">
+      <p class="trust-marks text-s">
+        <style>
+          /*<![CDATA[*/
+          .trust-marks {
+            display: flex;
+            flex-direction: row;
+            flex: 0;
+            flex-wrap: wrap;
+          }
+          .trust-mark {
+            margin-top: 16px;
+            font-weight: 600;
+          }
+          @media (max-width: 1024px) {
+            .trust-mark {
+              flex-basis: 100%;
+            }
+          }
+          .trust-mark:not(.last) {
+            margin-right: 12px;
+          }
+          .trust-mark img {
+            margin-right: 8px;
+            width: 26px;
+            height: 18px;
+            padding-right: 8px;
+            border-right: 1px solid var(--body-color);
+          } /*]]>*/</style
+        >
+          <span class="trust-mark">
+          <img 
+          src="https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto,w_18/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2021/04/g2-logo.png"
+          /> 
+        </p>
+    </div>
+    </div>
+</html>
